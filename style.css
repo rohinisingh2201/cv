@@ -1,0 +1,115 @@
+body {
+    background-color: #FFC4C4;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 40px;
+}
+h1 {
+    margin-top: 50px auto 80% auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+}
+/* div {
+    background-color: #FFE3E1;
+} */
+.girl {
+    line-height: 2%;
+    position: relative;
+}
+.top-container {
+    position: relative ;
+    padding-top: 100px;
+}
+.bottom-cloud {
+    color: black;
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud {
+    position : absolute;
+    right: 300px;
+    top: 100px;
+}
+.dev {
+    text-decoration: underline;
+}
+.icon-img {
+    top: 20px;
+}
+h2 {
+    font-weight: bold;
+}
+p {
+    font-size: 30px;
+    line-height: 1;
+}
+
+.contact-me {
+    background-color: #FA9494;
+    text-align: left;
+    text-shadow: 100px;
+    padding: 20px 0;
+}
+
+/* .bottom-section {
+    text-decoration: underline;
+    background-color: #FFAE6D;
+    padding: 10px 0 10px;
+} */
+
+.read {
+    margin-left: 300px;
+    float: left;
+}
+.skill {
+    margin-right: 400px;
+
+}
+hr {
+    border: dotted #F5EDDC 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 3px #1fc6d9;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #ffffff;
+    font-size: px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #19cfba;
+    background-image: -webkit-linear-gradient(top, #19cfba, #0b9668);
+    background-image: -moz-linear-gradient(top, #19cfba, #0b9668);
+    background-image: -ms-linear-gradient(top, #19cfba, #0b9668);
+    background-image: -o-linear-gradient(top, #19cfba, #0b9668);
+    background-image: linear-gradient(to bottom, #19cfba, #0b9668);
+    text-decoration: none;
+}
+a {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+ a:hover {
+    color: #FFF5E4;
+ }
+
+.co {
+    text-align: left;
+    color:#850E35 ;
+    font-size: 1rem;
+}
